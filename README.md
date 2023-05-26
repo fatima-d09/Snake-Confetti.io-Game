@@ -183,7 +183,3 @@ first enters the game, I utilized the paintComponent method in my program to pla
 appropriate locations. I didn’t add any collision detection to the image. When the user loses the
 game, I had another gif that would appear with a different sound playing in the background
 continuously.
-
-# 🖼 Game's UI
-![Game begins]([http://url/to/img.png](https://pasteboard.co/uPs4U6hQGIPM.png))
-![User loses game]([http://url/to/img.png](https://i.ibb.co/k6vTdqr/Screen-Shot-2023-05-22-at-05-22-52.png))
